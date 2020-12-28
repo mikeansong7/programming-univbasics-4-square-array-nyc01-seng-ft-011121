@@ -1,3 +1,6 @@
 def square_array(array)
-  # your code here
+  counter = 0
+  while counter >1 do
+    puts counter**2
+    counter+=1
 end
